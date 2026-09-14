@@ -1,0 +1,13 @@
+node_modules/
+dist/
+source/
+scripts/
+package.json
+package-lock.json
+vite.config.mjs
+script.js
+styles.css
+assets/logo.png
+index-arabic-test.html
+index-before-arabic-repair.html
+*.backup
